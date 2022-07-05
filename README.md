@@ -1,7 +1,12 @@
-# Messaging Chat 
+# Messaging Chat for Multiple Users 
 A Multi User Chat Application With Laravel and Livewire. where you can chat with multiple frinds at the same time. i build this with php Laravel and Livewire.
 
 ## Quick Start
+
+Clone the Project
+```
+git clone https://github.com/chiragsst/messaging-app.git
+```
 
 change directory
 ```
